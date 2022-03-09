@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+
+    <string name="login">Login</string>
+    <string name="email">email</string>
+
+    <string name="do_not_have_an_account">Don\'t have an account?\ </string>
+    <string name="already_have_an_account">Already have an account?\ </string>
+    <string name="sign_up">Sign up</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="username">username</string>
+    <string name="sign_in">Sign in</string>
+
+</resources>
